@@ -1,3 +1,10 @@
+// Q. Write a program RightTriangle that takes three int command-line arguments
+//    and determines whether they constitute the side lengths of some right triangle.
+//    The following two conditions are necessary and sufficient:
+//       1) Each integer must be positive.
+//       2) The sum of the squares of two of the integers must equal the square of the third integer
+
+
 import java.util.*;                    //importing util.* library to take the data input from the user.
 public class RightTriangle         //class declaration
 {
